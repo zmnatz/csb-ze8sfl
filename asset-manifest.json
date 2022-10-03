@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zmnatz.github.io/csb-ze8sfl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://zmnatz.github.io/csb-ze8sfl/static/js/main.e374ede4.chunk.js",
+    "main.js.map": "https://zmnatz.github.io/csb-ze8sfl/static/js/main.e374ede4.chunk.js.map",
+    "runtime-main.js": "https://zmnatz.github.io/csb-ze8sfl/static/js/runtime-main.27883caa.js",
+    "runtime-main.js.map": "https://zmnatz.github.io/csb-ze8sfl/static/js/runtime-main.27883caa.js.map",
+    "static/js/2.b12d9816.chunk.js": "https://zmnatz.github.io/csb-ze8sfl/static/js/2.b12d9816.chunk.js",
+    "static/js/2.b12d9816.chunk.js.map": "https://zmnatz.github.io/csb-ze8sfl/static/js/2.b12d9816.chunk.js.map",
+    "index.html": "https://zmnatz.github.io/csb-ze8sfl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://zmnatz.github.io/csb-ze8sfl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b12d9816.chunk.js.LICENSE.txt": "https://zmnatz.github.io/csb-ze8sfl/static/js/2.b12d9816.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27883caa.js",
+    "static/js/2.b12d9816.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e374ede4.chunk.js"
+  ]
+}
